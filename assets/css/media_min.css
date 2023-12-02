@@ -1,0 +1,84 @@
+@media (max-width:576px) {
+    .header p {
+        font-size: 22px
+    }
+
+    .header-content img {
+        width: 85%
+    }
+
+    .chaf-img img,
+    .logo,
+    .nav {
+        width: 100%
+    }
+
+    .navbar {
+        position: relative;
+        background-color: rgba(0, 0, 0, .0001)
+    }
+
+    .header-content h1 {
+        font-size: 50px
+    }
+
+    .header-content {
+        padding-top: 0
+    }
+
+    .logo {
+        float: none
+    }
+
+    .logo img {
+        margin-left: 33%
+    }
+
+    .nav {
+        float: left;
+        padding-top: 10px
+    }
+
+    .nav li {
+        margin-right: 10px
+    }
+
+    .chaf-img,
+    .description {
+        float: none;
+        width: 80%;
+        padding: 0
+    }
+
+    .cup-img {
+        float: none;
+        width: 80%;
+        height: 80%;
+        padding-top: 7%;
+        margin: 0 10%
+    }
+
+    .dish {
+        width: 92%;
+        line-height: 33.48px;
+        margin-left: 0;
+        padding-bottom: 40px
+    }
+
+    .location-map {
+        float: none;
+        width: 90%;
+        height: 450px;
+        margin: 5%
+    }
+
+    .about-us,
+    .contact-details,
+    .opening-hours,
+    .usefull-inks {
+        float: none;
+        width: 90%;
+        margin: 0 0 20px;
+        padding-right: 5%
+    }
+}
